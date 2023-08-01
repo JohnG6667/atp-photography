@@ -230,12 +230,20 @@ background-image: url(../img/team/carousel-img-item-7.jpg);
 
 /* know-how IMG BACKGROUND */
 .img-fullwidth-know-how-carousel-1 {
-background-image: url(../img/know-how/know-how-carousel-1.jpg);
+background-image: url(../img/know-how/1.jpg);
 }
 
 .img-fullwidth-know-how-carousel-2 {
-background-image: url(../img/know-how/know-how-carousel-2.jpg);
+background-image: url(../img/know-how/2.jpg);
 }
+
+.img-fullwidth-know-how-carousel-3 {
+  background-image: url(../img/know-how/3.jpg);
+  }
+  
+  .img-fullwidth-know-how-carousel-4 {
+  background-image: url(../img/know-how/4.jpeg);
+  }
 
 
 /* parallax IMG BACKGROUND */
